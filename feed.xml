@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+  <channel>
+    <description>愛知・岐阜・三重のIT, Tech系の話題を中心に人やコミュニティ、イベント、そしてファンタジーなことまで自由気ままに話しているPodcastです。</description>
+    <title>Transclude</title>
+    <generator>Tumblr (3.0; @transclude)</generator>
+    <link>http://transclude.fm</link>
+    <itunes:category text="Society &amp;amp; Culture">
+      <itunes:category text="Personal Journals"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:email>kazuyuki.saka@genies.jp</itunes:email>
+      <itunes:name>Kazuyuki Saka</itunes:name>
+    </itunes:owner>
+    <itunes:author>Kazuyuki Saka</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://cache.transclude.fm/coverart.jpg"/>
+    <itunes:keywords>Podcast,ポッドキャスト,IT,Tech,コミュニティ,イベント,愛知,岐阜,三重,名古屋,トーク</itunes:keywords>
+    <itunes:subtitle>A Podcast by Kazuyuki Saka.</itunes:subtitle>
+    <itunes:summary>愛知・岐阜・三重のIT, Tech系の話題を中心に人やコミュニティ、イベント、そしてファンタジーなことまで自由気ままに話しているPodcastです。&#13;会話中に出てくるキーワードは、http://transclude.fm のShow Notesにリンクがあります。ハッシュタグは#transcludefmです。</itunes:summary>
+    <item>
+      <title>episode 13: いよいよ本当に英語ができない人っていうのはもう喋れない人と同じような扱いになる時代なんじゃないかなあと思います</title>
+      <description>&lt;p&gt;豊吉さんとmisocaの話を中心に社名変更、リモートワーク、プロモーション、資金調達などの話、リスナーからのお便りと書籍の話（30:25〜）、将棋の話（44:22〜）をしました。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img src="http://33.media.tumblr.com/92d2fbc0d543af928662d1bc2b44bddb/tumblr_inline_ng70zlm0be1qde1fb.jpg"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.misoca.jp" target="_blank"&gt;株式会社misoca&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.misoca.jp/toyoshi/" target="_blank"&gt;toyoshiの日記&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://itunes.apple.com/jp/app/misoca-misoka-wu-liaono-qing/id1026534800?ls=1&amp;mt=8" target="_blank"&gt;請求書作成アプリ「Misoca」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.apple.com/jp/swift/" target="_blank"&gt;swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/Objective-C" target="_blank"&gt;Objective-C（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://iot.mb.cloud.nifty.com/iotcolumn/html5_%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA" target="_blank"&gt;知識ゼロから始めるHTML5ハイブリッドアプリ開発（Nifty Cloud Mobile Backend）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.remotework-labo.jp/2015/08/interview_01/" target="_blank"&gt;【雨が降ったらリモートワーク！毎朝、成果が出せる場所を選んで働ける】前編～豊吉 隆一郎氏（リモートワークラボ）&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B1%9F%E5%B8%82" target="_blank"&gt;島根県松江市（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://auctions.yahoo.co.jp" target="_blank"&gt;ヤフオク!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.mercari.com/jp/" target="_blank"&gt;mercari&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://fril.jp" target="_blank"&gt;FRIL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com" target="_blank"&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://toyoshi.hatenablog.com/entry/2015/08/23/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6Web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E8%A9%B1" target="_blank"&gt;クラウドソーシングを使ってWebサービスを作った話クラウドソーシングを使ってWebサービスを作った話（Misoca社長日記）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://chuplus.jp/blog/list.php?category_id=505" target="_blank"&gt;名古屋ベン社長豊吉隆一郎の「あなたも使えるITベンチャーの最新仕事術」（中日新聞プラス）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.info.city.tsu.mie.jp/modules/dept1012/article.php?articleid=50" target="_blank"&gt;津市オープンデータライブラリ「みんなのデータ」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://gomi-tsu.moyashi-koubou.com" target="_blank"&gt;分別さん - 津市のごみは僕にまかせろ!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.smartnews.com/ja/" target="_blank"&gt;SmartNews&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.akippa.com" target="_blank"&gt;akippa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.chatwork.com/ja/" target="_blank"&gt;Chatwork&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://news.chatwork.com/ja/1504_nextstage.html" target="_blank"&gt;ChatWorkはネクストステージへ GMO - VPより資金調達のお知らせ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.gmo-vp.com" target="_blank"&gt;GMO VenturePartners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://the-entrepreneur.jp/dead_finance/" target="_blank"&gt;デッドファイナンスとエクイティファイナンスの違い（The Entrepreneur）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.misoca.jp/press/156" target="_blank"&gt;「GIGAZINE」に掲載 〜無料クラウド請求書管理サービス「Misoca」が資金調達をして知ったこと〜（Misocaプレスルーム）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/" target="_blank"&gt;ベンチャーキャピタル（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.sharebaseinc.com" target="_blank"&gt;Sharebase.InC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://business.nikkeibp.co.jp/article/report/20141006/272207/?rt=nocnt" target="_blank"&gt;アマゾン受注前予測発送の衝撃（日経ビジネスオンライン）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.paypal.com/us/webapps/workingcapital/" target="_blank"&gt;PayPal Working Capital&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/gp/product/4150307873/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4150307873&amp;linkCode=as2&amp;tag=geniesagjp-22" target="_blank"&gt;太陽の簒奪者（Amazon）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E9%87%8E%E5%B0%BB%E6%8A%B1%E4%BB%8B" target="_blank"&gt;野尻 抱介（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/gp/product/4140816872/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4140816872&amp;linkCode=as2&amp;tag=geniesagjp-22" target="_blank"&gt;限界費用ゼロ社会－モノのインターネットと共有型経済の台頭&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h27/html/nc242110.html" target="_blank"&gt;平成27年版情報通信白書 シェアリングエコノミーとは（総務省）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://hiptokyo.jp/events/innovationengine201512/" target="_blank"&gt;フィンテック（金融×技術）が変える未来のマネー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://tsuda.ru/" target="_blank"&gt;津田大介公式サイト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/Massive_open_online_course" target="_blank"&gt;Massive open online course&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ws.moyashi-koubou.com/" target="_blank"&gt;Little Coder Mie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/gp/product/4478039674/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4478039674&amp;linkCode=as2&amp;tag=geniesagjp-22" target="_blank"&gt;シリコンバレー式 自分を変える最強の食事&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ex.nicovideo.jp/denou/" target="_blank"&gt;将棋電王戦 HUMAN VS COMPUTER&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E7%B1%B3%E9%95%B7%E9%82%A6%E9%9B%84" target="_blank"&gt;米長邦雄（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E7%BE%BD%E7%94%9F%E5%96%84%E6%B2%BB" target="_blank"&gt;羽生善治（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://thepage.jp/detail/20140118-00000001-wordleaf" target="_blank"&gt;「女流プロ」が「プロ棋士」を目指すってどういうこと？　里見香奈さんが奨励会三段に（THE PAGE）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/133576915076</link>
+      <guid isPermaLink="false">http://transclude.fm/post/133576915076</guid>
+      <pubDate>Fri, 20 Nov 2015 14:33:37 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode13.mp3" length="29522839" type="audio/mpeg">http://transclude.fm/post/133576915076</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>豊吉さんとmisocaの話を中心に社名変更、リモートワーク、プロモーション、資金調達などの話、リスナーからのお便りと書籍の話（30:25〜）、将棋の話（44:22〜）をしました。</itunes:subtitle>
+      <itunes:duration>49:12</itunes:duration>
+    </item>
+    <item>
+      <title>episode 12: いつものそこはやってみたらええやんっていうのは出ないんですね</title>
+      <description>&lt;p&gt;石黒さんとPodcastの話、Little Coder Mieの話（7:36〜）、IchigojamとPCN三重の話（24:52〜）、デジタルガジェットの話（26:29〜）、津市のオープンデータとCode for・Photo for Japanの話（31:25〜） &lt;/p&gt;
+&lt;p&gt;&lt;img alt='“image"' src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img src="http://33.media.tumblr.com/049dff785326c6140f63d38d493f8d60/tumblr_inline_ne4xhqNu551qde1fb.jpg"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.moyashi-koubou.com/" target='“_blank"'&gt;もやし工房&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lineblog.me/ha_chu/archives/44559162.html" target='“_blank"'&gt;月刊はあちゅうで音声配信を始めてみました&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://narumi.blog.jp/archives/43275402.html" target='“_blank"'&gt;ポッドキャストをはじめました。 @natsumeg_k と一緒に&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ws.moyashi-koubou.com/" target='“_blank"'&gt;Little Coder Mie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ws.moyashi-koubou.com/blog/workshop08/" target='“_blank"'&gt;2015年4月「一緒だともっと楽しい 大人×子ども×プログラミング」のレポート&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ws.moyashi-koubou.com/blog/workshop09/" target='“_blank"'&gt;2015年7月「楽しいをつなげよう」SCRATCH×センサーボード×ドミノのレポート&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://education.lego.com/ja-jp/preschool-and-school/lower-primary/7plus-education-wedo" target='“_blank"'&gt;LEGO WeDo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.genies.jp/2015/07/meshwedolittle-coder-mie.html" target='“_blank"'&gt;楽しいをつなげよう！リアルとデジタルがピタゴラスイッチ（MESHとWedoもあるよ）Little Coder Mieの話（道はなくても進むのだ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bcafe2.mie1.net/e555971.html" target='“_blank"'&gt;プログラミングワークショップに参加してきました（０さいからのみんなのカフェ　b-C）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/gp/product/4040673786/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4040673786&amp;linkCode=as2&amp;tag=geniesagjp-22" target='“_blank"'&gt;子どもを億万長者にしたければプログラミングの基礎を教えなさい（Amazon）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/gp/product/4774173215/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4774173215&amp;linkCode=as2&amp;tag=geniesagjp-22" target='“_blank"'&gt;［ママとパパのための］こどもプログラミング読本 ――「未来をつくる力」を育てる（Amazon）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/gp/product/B016U699T0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=B016U699T0&amp;linkCode=as2&amp;tag=geniesagjp-22" target='“_blank"'&gt;子どもにプログラミングを学ばせるべき6つの理由 「21世紀型スキル」で社会を生き抜く（Amazon）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ichigojam.net" target='“_blank"'&gt;Ichigojam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jig.jp" target='“_blank"'&gt;Jig.jp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mie-pcn.com" target='“_blank"'&gt;PCN三重&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://meshprj.com/jp/" target='“_blank"'&gt;MESH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jp.littlebits.com" target="“_blank”"&gt;LittleBits&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lametric.com" target='“_blank"'&gt;LaMetric Time&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ifttt.com" target='“_blank"'&gt;IFTTT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.kickstarter.com" target='“_blank"'&gt;Kickstater&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.info.city.tsu.mie.jp/modules/dept1012/article.php?articleid=50" target='“_blank"'&gt;津市オープンデータライブラリ「みんなのデータ」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://gomi-tsu.moyashi-koubou.com" target='“_blank"'&gt;分別さん - 津市のごみは僕にまかせろ!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://code4japan.org" target='“_blank"'&gt;Code for Japan - ともに考え、ともにつくる&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.moyashi-koubou.com/blog/open_data/" target='“_blank"'&gt;自治体のオープンデータを使って タダ働きした話
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/131942529196</link>
+      <guid isPermaLink="false">http://transclude.fm/post/131942529196</guid>
+      <pubDate>Mon, 26 Oct 2015 18:52:23 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode12.mp3" length="24832814" type="audio/mpeg">http://transclude.fm/post/131942529196</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>石黒さんとPodcastの話、Little Coder Mieの話（7:36〜）、IchigojamとPCN三重の話（24:52〜）、デジタルガジェットの話（26:29〜）、津市のオープンデータとCode for・Photo for Japanの話（31:25〜） </itunes:subtitle>
+      <itunes:duration>41:23</itunes:duration>
+    </item>
+    <item>
+      <title>episode 11: シェアキッチンを通して料理を提供する側の知恵の共有というか集合の知を作りたいなというのを思っています</title>
+      <description>&lt;p&gt;木村優子さんと、すたーとあっぷきっちんの話、フードメーカーズ・食品系スタートアップの話（8:13〜）をしました。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img src="http://41.media.tumblr.com/fb8094baf84c14556c5c53077bef2e04/tumblr_inline_nufxa0oL0U1qde1fb_500.jpg"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.sharebaseinc.com/" target="_blank"&gt;Sharebase.InC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://" target='“_blank"'&gt;すたーとあっぷきっちん&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E9%A3%9F%E5%93%81%E8%A1%9B%E7%94%9F%E8%B2%AC%E4%BB%BB%E8%80%85%0A%20" target='“_blank"'&gt;食品衛生責任者（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://social-design-net.com/archives/15480" target='“_blank"'&gt;食品系スタートアップのためのコミュニティキッチンが広がりそう｜Social Design News&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rn2btt.radionikkei.jp/webservice/001289.html" target='“_blank"'&gt;飲食スタートアップ注目！飲食特化型クラウドファンディング「キッチンスターター」｜BIZ &amp; TECH Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kitchenstarter.jp/" target='“_blank"'&gt;飲食特化型のクラウドファンディング kitchen starter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://gendai.ismedia.jp/articles/-/1493" target='“_blank"'&gt;ソーシャルメディアにより広がる「シェアリング･エコノミー(共有型経済)」の大きな可能性（現代ビジネス）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://town-kitchen.com/" target='“_blank"'&gt;TOWN KITCHEN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://area.walkerplus.com/walker47/localeditor/profile/ar0623100/le2413/" target='“_blank"'&gt;ウォーカープラス　愛知県名古屋市地域編集長&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.tolabl.com/" target='“_blank"'&gt;クリエーターシェアハウス TOLABL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://radio-tsukuba.net/program/002503/" target='“_blank"'&gt;つくばYouve got 84.2(発信chu)!（ラジオつくば）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://greenz.jp/" target="“_blank”"&gt;greenz.jp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://greenz.jp/2013/12/12/nipun_gift/" target='“_blank"'&gt;「ペイ・フォワード」の気持ちが本物のつながりをつくる。「Service Space」創始者ニップンさんに聞く「ギフト経済」のはじめかた（greenz.jp） &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.tatsuru.com/2012/01/09_1228.php" target='“_blank"'&gt;困難な時代を生きる君たちへ（内田樹の研究所）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="%E2%80%9Chttps://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%86%E3%83%83%E3%82%BD%E3%83%BC%E3%83%AA%E6%95%99%E8%82%B2%E2%80%9D" target='“_blank"'&gt;モンテッソーリ教育（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%8A%E3%83%BC%E6%95%99%E8%82%B2" target='“_blank"'&gt;シュタイナー教育&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/128749768836</link>
+      <guid isPermaLink="false">http://transclude.fm/post/128749768836</guid>
+      <pubDate>Thu, 10 Sep 2015 11:43:31 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode11.mp3" length="16852668" type="audio/mpeg">http://transclude.fm/post/128749768836</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>木村優子さんと、すたーとあっぷきっちんの話、フードメーカーズ・食品系スタートアップの話（8:13〜）をしました。</itunes:subtitle>
+      <itunes:duration>28:05</itunes:duration>
+    </item>
+    <item>
+      <title>episode 10: 日本の教育は悪いって言われるけど一概にそうではなくてメンタルの部分で日本から学ぶことはたくさんあるということ－</title>
+      <description>&lt;p&gt;株式会社ベイスの澤田さんとマレーシア（クアラルンプール）の生活環境や経営環境、人々の様子、日本とマレーシアの違いなどの話をしました。&lt;/p&gt;　
+&lt;p&gt;&lt;img alt="image" src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img src="http://41.media.tumblr.com/9e7fa6f9da8a0b1419d571cd58557c1e/tumblr_inline_nsbvo2YVbq1qde1fb_500.jpg"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://base-net.co.jp/" target='“_blank"'&gt;株式会社ベイス&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2" target='“_blank"'&gt;マレーシア（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://funnel.co.jp/index.html" target='“_blank"'&gt;Funnel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A2%E3%83%A9%E3%83%AB%E3%83%B3%E3%83%97%E3%83%BC%E3%83%AB" target='“_blank"'&gt;クアラルンプール（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sawacchi.com/" target='“_blank"'&gt;南国マレーシアに移住してIT企業をやってたよブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.genies.jp/2013/11/blog-post.html" target="_blank"&gt;マレーシア（クアラルンプール）現地視察レポート（道はなくても進むのだ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.longstay.or.jp/newslist/open/entry-1654.html" target="_blank"&gt;◆速報◆ロングステイ希望国トップ10 ～9年連続マレーシアが第1位～（ロングステイ財団）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://nakanopropertymalaysia.com/blog/%E4%B8%8D%E5%8B%95%E7%94%A3/%E3%82%A8%E3%83%AA%E3%82%A2%E5%88%A5%E8%A9%B3%E7%B4%B0%E6%83%85%E5%A0%B1/%E3%82%B9%E3%83%90%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%A4-subang-jaya-%E3%81%AF%E3%81%A9%E3%82%93%E3%81%AA%E8%A1%97%EF%BC%9F/" target="_blank"&gt;スバンジャヤ Subang Jaya はどんな街？（マレーシア不動産のナカノプロパティー）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.m-traveler.com/bukit-bintang.html" target='“_blank"'&gt;ブキッ・ビンタン（マレーシア旅行.com）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sawacchi.com/2014/09/23/aruaru/" target="_blank"&gt;【マレーシアあるある一挙公開！】マレーシアに住んだら分かる、ベタ系からマイナー系なあるある。 （南国マレーシアに移住してIT企業をやってたよブログ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.myaway.jp/entry/2014/04/13/164723" target="_blank”&gt;マレーシアのファッション事情 〜 ヒジャブ(トゥドゥン)とヒジャビスタの声（Away Blog）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=" https: http:&gt;シンガポールの6歳児がレゴランドで誘拐未遂？ （マレーシア ジョホールバルだより）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97" target='“_blank"'&gt;インターンシップ（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89" target="_blank"&gt;インバウンド（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ecclab.empowershop.co.jp/archives/4177" target='“_blank"'&gt;そもそも越境ECってどんなモノがどんな理由で売れるのか － データから見るポテンシャルと傾向（ECCLab）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/125481410466</link>
+      <guid isPermaLink="false">http://transclude.fm/post/125481410466</guid>
+      <pubDate>Fri, 31 Jul 2015 11:55:17 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode10.mp3" length="26322839" type="audio/mpeg">http://transclude.fm/post/125481410466</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>株式会社ベイスの澤田さんとマレーシア（クアラルンプール）の生活環境や経営環境、人々の様子、日本とマレーシアの違いなどの話をしました。　</itunes:subtitle>
+      <itunes:duration>40:40</itunes:duration>
+    </item>
+    <item>
+      <title>episode 9: これはどれだけの人が賛同してくれるかわからないですけど、僕の理想は、やっぱり労働を無くすことなんですよ。</title>
+      <description>&lt;p&gt;Sharebase.InCの高木さんと、airbnbの話、仮想通貨の話（11:13〜）、考えることと行動することについての話（32:43〜）をしました。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img alt="image" src="http://33.media.tumblr.com/45bff7b889cf72b2f2ec49bf5f77c53f/tumblr_inline_nbdky8xt8S1qde1fb.jpg"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.sharebaseinc.com/" target="_blank"&gt;Sharebase.InC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.airbnb.jp/" target="_blank"&gt;airbnb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.dyna-search.com/jp/services/research-report/community-manager" target="_blank"&gt;コミュニティ・マネージャーという職業について（Dyna-Search, Inc.）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://d.hatena.ne.jp/keyword/%A5%A8%A5%D0%A5%F3%A5%B8%A5%A7%A5%EA%A5%B9%A5%C8" target="_blank"&gt;エバンジェリスト（はてなキーワード）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://business.nikkeibp.co.jp/atcl/report/15/061700004/071500014/?rt=nocnt" target="_blank"&gt;自宅を宿にする「Airbnb」、地元サンフランシスコで強まる逆風（日経ビジネスオンライン）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/Linux" target="_blank"&gt;&lt;/a&gt;&lt;a href="http://blogos.com/article/124596/" target="_blank"&gt;日本初のAirBnB死亡事故？（BLOGOS）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.afpbb.com/articles/-/3055061" target="_blank"&gt;スペイン・カタルーニャ州、Airbnb利用に課税へ（AFPBroadBand News）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8" target="_blank"&gt;仮想通貨（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3" target="_blank"&gt;bitcoin（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://le-le-le.jp" target="_blank"&gt;株式会社レレレ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://prototype.fm" target="_blank"&gt;Prototype.fm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://coincheck.jp" target="_blank"&gt;coincheck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://storys.jp" target="_blank"&gt;Storys.jp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/gp/product/4048650955/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4048650955&amp;linkCode=as2&amp;tag=geniesagjp-22" target="_blank"&gt;ビリギャル（Amazon）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ameblo.jp/tsubota-nobutaka/" target="_blank"&gt;坪田信貴オフィシャルブログ「意思あるところに道は開ける」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AA%E3%83%86%E3%82%A3" target="_blank"&gt;マジョリティ（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.waon.net/index.html" target="_blank"&gt;WANON&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.jreast.co.jp/suica/" target="_blank"&gt;Suica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ponta.jp/" target="_blank"&gt;Ponta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://dic.nicovideo.jp/a/%E6%9A%97%E5%8F%B7%E9%80%9A%E8%B2%A8" target="_blank"&gt;暗号通貨（ニコニコ大百科）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9C%AC%E5%93%B2%E5%8F%B2" target="_blank"&gt;ナカモトサトシ（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://matome.naver.jp/odai/2143423017218493101" target="_blank"&gt;悲報　”100兆ドル札”もあった「ジンバブエ・ドル」の廃止が決定（Naverまとめ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.nikkei.com/money/gold/toshimagold.aspx?g=DGXMZO8609089024042015000000" target="_blank"&gt;ビットコインに走るギリシャ国民（日本経済新聞）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.economist.com/news/finance-and-economics/21569744-use-pre-paid-mobile-phone-minutes-currency-airtime-money" target="_blank"&gt;Airtime is money（The Economist）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.defermat.com/journal/2013/000978.php" target="_blank"&gt;モバイル未来大陸アフリカ（FERMAT）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.foxmovies.jp/time/information/about/about.html" target="_blank"&gt;映画「TIME/タイム」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jpbitcoin.com/bitcoin2s" target="_blank"&gt;bitcoin2.0（bitcoin日本情報サイト）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://qiita.com/hshimo/items/bd849363a871966a923f" target="_blank"&gt;ビットコインのブロックチェインの技術的な説明 まとめ（Qiita）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ripple.com/blog/smart-oracles-building-business-logic-with-smart-contracts/" target="_blank"&gt;Smart Oracles: Building Business Logic With Smart Contracts（Ripple）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jpbitcoin.com/bitcoin2/userasset" target="_blank"&gt;ユーザー独自通貨とスマートプロパティ（bitcoin日本情報サイト）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.metaps.com/ja" target="_blank"&gt;metaps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://katsuaki.co" target="_blank"&gt;メタップス社長のブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3" target="_blank"&gt;魔法少女（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jp.techcrunch.com/2012/05/25/jp20120525-anri-venture-fund/" target="_blank"&gt;佐俣アンリ：独立系ベンチャーファンドのANRIを立ち上げたのは28歳の若き投資家（TechCrunch）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kotobank.jp/word/%E9%87%91%E3%83%BB%E3%83%89%E3%83%AB%E6%9C%AC%E4%BD%8D%E5%88%B6-775762" target="_blank"&gt;プレトン・ウッズ／ドル本位（コトバンク）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88" target="_blank"&gt;ハイパーテキスト（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%A0%E3%83%BB%E3%83%90%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%BA%EF%BC%9D%E3%83%AA%E3%83%BC" target="_blank"&gt;ティム・バーナーズ＝リー（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%95%E3%83%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%92%E3%83%BB%E3%82%AC%E3%82%A6%E3%82%B9" target="_blank"&gt;カール・フリードリヒ・ガウス（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.genies.jp/2014/07/blog-post.html" target="_blank"&gt; 三重大学アントレプレナー論 『未熟さの価値』 （道はなくても進むのだ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/gp/product/B00NQ3QONK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=B00NQ3QONK&amp;linkCode=as2&amp;tag=geniesagjp-22" target="_blank"&gt;ゼロ・トゥ・ワン　君はゼロから何を生み出せるか（Amazon）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/125126839686</link>
+      <guid isPermaLink="false">http://transclude.fm/post/125126839686</guid>
+      <pubDate>Mon, 27 Jul 2015 09:57:15 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode9.mp3" length="24402839" type="audio/mpeg">http://transclude.fm/post/125126839686</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Sharebase.InCの高木さんと、airbnbの話、仮想通貨の話（11:13〜）、考えることと行動することについての話（32:43〜）をしました。</itunes:subtitle>
+      <itunes:duration>40:40</itunes:duration>
+    </item>
+    <item>
+      <title>episode 8: 予定調和の中でそこを超えたところのガチが一番ガチだと、僕はたまに思うときがあってですね</title>
+      <description>&lt;p&gt;北川さんにリードマイクを担当してもらって、おなじみ古川さん、初登場の矢野さんとアイデンティティやプロレスについて話ました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://38.media.tumblr.com/e383a69dafe061c103e6872d67f730ae/tumblr_inline_nfsfwbGNej1qde1fb.jpg"/&gt;  &lt;img alt="image" src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img src="http://38.media.tumblr.com/02c65181268044d6adc19f1b87640fd9/tumblr_inline_nfsfl9cnRo1qde1fb.png"/&gt;  &lt;img src="http://36.media.tumblr.com/9f82d8895bfcdf81796e4722326f0dee/tumblr_inline_nqsh0kUZ4r1qde1fb_500.png"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E5%90%8C%E4%B8%80%E6%80%A7" target="_blank"&gt;アイデンティティ（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ebiy.net/" target="_blank"&gt;蛭子能収&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.jva.or.jp/index.php/international/hinotori_nippon/" target="_blank"&gt;2015年度全日本女子チーム 選手・監督・スタッフ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E6%A0%97%E5%8E%9F%E6%81%B5" target="_blank"&gt;プリンセスメグ：栗原 恵（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%82%AA%E7%8C%AA%E6%9C%A8" target="_blank"&gt;アントニオ猪木（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%9D%91%E4%BF%AE" target="_blank"&gt;西村修（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ikkojin.net/blog/blog42/" target="_blank"&gt;藤波辰爾&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%83%BB%E3%82%B6%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88" target="_blank"&gt;アンドレ・ザ・ジャイアント（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.saku39.com/" target="_blank"&gt;桜庭和志&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.itoh-c.com/aoi/" target="_blank"&gt;蒼井優&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88" target="_blank"&gt;レコーディングダイエット（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mixi.jp/" target="_blank"&gt;mixi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.el-aura.com/2014020203/" target="_blank"&gt;あなたは大丈夫!? SNSに巣食うバイオハザード！『あいさつおじさん』とは？（Trinity Web）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://dictionary.goo.ne.jp/leaf/jn2/228010/m0u/" target="_blank"&gt;予定調和（goo辞書）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/122906165141</link>
+      <guid isPermaLink="false">http://transclude.fm/post/122906165141</guid>
+      <pubDate>Wed, 01 Jul 2015 11:36:23 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode8.mp3" length="26302724" type="audio/mpeg">http://transclude.fm/post/122906165141</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>北川さんにリードマイクを担当してもらって、おなじみ古川さん、初登場の矢野さんとアイデンティティやプロレスについて話ました。</itunes:subtitle>
+      <itunes:duration>43:50</itunes:duration>
+    </item>
+    <item>
+      <title>episode 7: わかりやすいものが善だとは思うんですけど、わかりにくいものっていうか文脈を読む味っていうのも必ずあると思ってて、</title>
+      <description>&lt;p&gt;ライターの北村美桂さんとライターの仕事について、カツイエ.comの話、（8:10〜）名古屋戦国Nightの話（26:30〜）、プロレスについての話（32:27〜）をしました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg" class="toggle_inline_image inline_image constrained_image"/&gt;  &lt;img src="http://41.media.tumblr.com/7f2dfa9516e0bb84eac9a4f3eb95f7d3/tumblr_inline_npg7w603S01qde1fb_500.png"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://twitter.com/machikomaki33" target="_blank"&gt;北村美桂（Twitter）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.nagoya-mycafe.com/" target="_blank"&gt;MyCafe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kotobank.jp/word/%E3%83%9E%E3%83%8D%E3%82%BF%E3%82%A4%E3%82%BA-188831" target="_blank"&gt;マネタイズ（コトバンク）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cookpad.com/" target="_blank"&gt;cookpad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rebuild.fm/" target="_blank"&gt;Rebuild - Podcast by Tatsuhiko Miyagawa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%AB_%28%E3%83%A9%E3%82%B8%E3%82%AA%29" target="_blank"&gt;ジングル（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://dictionary.goo.ne.jp/leaf/jn2/260464/m0u/" target="_blank"&gt;オウンドメディア（goo辞書）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://katsuie.com/" target="_blank"&gt;カツイエ.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E5%B0%BE%E5%BC%B5%E5%9B%BD" target="_blank"&gt;尾張国（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9D%82%E3%81%AE%E9%99%A3" target="_blank"&gt;大阪の陣（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rekijoshikai.girly.jp/" target="_blank"&gt;歴女子会 公式サイト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E6%9F%B4%E7%94%B0%E5%8B%9D%E5%AE%B6" target="_blank"&gt;柴田勝家（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://katsuie.com/2013/05/29/572/" target="_blank"&gt;柴田勝家が好きすぎて…『賤ヶ岳ナイト』というマニアックなイベントを主催してしまった話（カツイエ.com）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://goryugo.com/" target="_blank"&gt;ごりゅご.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/gp/product/B00IRU97FO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=B00IRU97FO&amp;linkCode=as2&amp;tag=geniesagjp-22" target="_blank"&gt;清須会議 スタンダード・エディション [DVD]（Amazon）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/gp/product/4833101432/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4833101432&amp;linkCode=as2&amp;tag=geniesagjp-22" target="_blank"&gt;東海戦国武将ウオーキング（Amazon）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/haa_cha" target="_blank"&gt;名古屋みさと（Twitter）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/ihayato" target="_blank"&gt;イケダハヤト（Twitter）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ikedahayato.com/" target="_blank"&gt;まだ東京で消耗してるの？（イケダハヤト）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://yoppymodel.hatenablog.com/entry/2014/09/01/125732" target="_blank"&gt;イケダハヤト氏が全クリエイターに対して宣戦布告を開始（ヨッピーがブチ切れまくるブログ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/sada_freejd29" target="_blank"&gt;暇な女子大生 - 暇女（Twitter）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://e-words.jp/w/%E3%83%9A%E3%83%BC%E3%82%B8%E3%83%93%E3%83%A5%E3%83%BC.html" target="_blank"&gt;ページビュー（IT用語辞典）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.google.com/adsense/start/" target="_blank"&gt;Google Adsense&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://katsuie.com/rekishi/" target="_blank"&gt;名古屋歴史ナイトについて（カツイエ.com）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E8%B3%A4%E3%83%B6%E5%B2%B3%E3%81%AE%E6%88%A6%E3%81%84" target="_blank"&gt;賤ヶ岳の戦い（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E4%BD%99%E5%91%89%E6%B9%96" target="_blank"&gt;余呉湖 - よごこ（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E9%99%A3%E4%B8%AD%E9%A3%9F" target="_blank"&gt;陣中食（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.it-nomikai.jp/" target="_blank"&gt;IT飲み会 公式サイト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E7%B7%8F%E5%90%88%E6%A0%BC%E9%97%98%E6%8A%80" target="_blank"&gt;総合格闘技（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://minamii.hatenablog.com/" target="_blank"&gt;話半分で聞いてください（美波）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://backspace.fm/episode/072/" target="_blank"&gt;#072: 謎の美人ブロガー美波さんと語る美波さんの気になること-ファンタジーの消失問題（backspace.fm）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://d.hatena.ne.jp/keyword/%A5%A8%A5%E2%A4%A4" target="_blank"&gt;エモい（はてなキーワード）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/120739404436</link>
+      <guid isPermaLink="false">http://transclude.fm/post/120739404436</guid>
+      <pubDate>Fri, 05 Jun 2015 10:40:30 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode7.mp3" length="26952650" type="audio/mpeg">http://transclude.fm/post/120739404436</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>ライターの北村美桂さんとライターの仕事について、カツイエ.comの話、（8:10〜）名古屋戦国Nightの話（26:30〜）、プロレスについての話（32:27〜）をしました。</itunes:subtitle>
+      <itunes:duration>45:26</itunes:duration>
+    </item>
+    <item>
+      <title>episode 6: あそれは、やるやらないの違いだと思ってるんですよ、私は。</title>
+      <description>&lt;p&gt;アルファツイッタラーの名古屋みさとさんと、Twitterの話やブログの話（23:45〜）などをしました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg" class="toggle_inline_image inline_image constrained_image"/&gt;  &lt;img src="http://33.media.tumblr.com/4c4bcf67195bfc4214c2d7664bf63d45/tumblr_inline_nc14m7Rq2C1qde1fb.png" class="toggle_inline_image inline_image constrained_image"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://twitter.com/haa_cha" target="_blank"&gt;名古屋みさと（Twitter）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.nagoya-mycafe.com/" target="_blank"&gt;MyCafe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://dragonballbp.web.fc2.com/" target="_blank"&gt;ドラゴンボール 戦闘力 ＜超公式＞ 決定版&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://yaplog.jp/lp-n-rena/" target="_blank"&gt;能年玲奈オフィシャルブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://analytics.twitter.com/" target="_blank"&gt;Twitter Analytics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/ha_chu" target="_blank"&gt;はあちゅう@半径5メートルの野望（Twitter）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.huffingtonpost.jp/2015/01/18/kuso-reply-center-test_n_6498228.html" target="_blank"&gt;クソリプってどんなもの？ センター試験でも「出題」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://dic.nicovideo.jp/a/%E5%87%BA%E4%BC%9A%E3%81%84%E5%8E%A8" target="_blank"&gt;出会い厨とは (ニコニコ大百科）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/sada_freejd29" target="_blank"&gt;暇な女子大生 - 暇女（Twitter）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/atsugirijason" target="_blank"&gt;厚切りジェイソン（Twitter）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/ihayato" target="_blank"&gt;イケダハヤト（Twitter）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B5%E3%82%A4%E3%83%88" target="_blank"&gt;テキストサイト（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://yoppymodel.hatenablog.com/entry/2014/09/01/125732" target="_blank"&gt;イケダハヤト氏が全クリエイターに対して宣戦布告を開始（ヨッピーがブチ切れまくるブログ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://joshi-daisei.hatenablog.com/entry/2015/05/21/200728" target="_blank"&gt;暇してたら彼氏が出来ました（暇な女子大生が馬鹿なことをやってみるブログ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.loft-prj.co.jp/schedule/lofta/25681" target="_blank"&gt;暇な女子大生presents「ドキッ！女だらけの大暴露夏祭り☆ポロリもあるよ!?」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://nagoyajo.blog.jp/" target="_blank"&gt;名古屋みさとが頑張るブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://e-words.jp/w/%E3%83%9A%E3%83%BC%E3%82%B8%E3%83%93%E3%83%A5%E3%83%BC.html" target="_blank"&gt;ページビュー（IT用語辞典）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.google.com/adsense/start/" target="_blank"&gt;Google Adsense&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.livedoor.com/" target="_blank"&gt;livedoor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://nagoyajo.blog.jp/archives/20507177.html" target="_blank"&gt;ゴーリキー似の殿方と致したときの話（名古屋みさとが頑張るブログ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E7%82%8E%E4%B8%8A_%28%E3%83%8D%E3%83%83%E3%83%88%E7%94%A8%E8%AA%9E%29" target="_blank"&gt;炎上（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ikedahayato.com/" target="_blank"&gt;まだ東京で消耗してるの？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/haa_cha/status/574582906007384064" target="_blank"&gt;処女が一ヶ月で童貞の彼氏を振った漫画（名古屋みさと）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://matome.naver.jp/m/odai/2132799950751889701" target="_blank"&gt;当てはまったらRT ツイ廃の症状&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.kinjo-u.ac.jp/pc/index.html" target="_blank"&gt;金城学院大学&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://appmarketinglabo.net/harajuku-app/" target="_blank"&gt;女子高生「80％がiPhone（Android恥ずかしい疑惑も）、Facebookではなくインスタ」原宿の女子高生100人に聞いてわかったスマホとアプリ3つの真実&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://instagram.com/" target="_blank"&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://at.line.me/jp/" target="_blank"&gt;LINE＠&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/120336967411</link>
+      <guid isPermaLink="false">http://transclude.fm/post/120336967411</guid>
+      <pubDate>Sun, 31 May 2015 17:37:58 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode6.mp3" length="26042805" type="audio/mpeg">http://transclude.fm/post/120336967411</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>アルファツイッタラーの名古屋みさとさんと、Twitterの話やブログの話（23:45〜）などをしました。</itunes:subtitle>
+      <itunes:duration>43:24</itunes:duration>
+    </item>
+    <item>
+      <title>episode 5: いや試行錯誤してるんですよ笑</title>
+      <description>&lt;p&gt;株式会社レレレの山本さんと、Coffee MeetingとTime Ticketの話、ポッドキャスト（Prototype.fm）配信についての話（17:23〜）をしました。今回はじめてなんですがノーカットでの配信です。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img src="http://40.media.tumblr.com/70f73fa7c30fee84fac759816feb4f41/tumblr_inline_nn1hppP7NA1qde1fb_500.png"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://le-le-le.jp" target="_blank"&gt;株式会社レレレ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.prototype.fm" target="_blank"&gt;Prototype.fm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ws.moyashi-koubou.com/" target="_blank"&gt;Little Coder Mie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.coffeemeeting.jp" target="_blank"&gt;Coffee Meeting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.timeticket.jp" target="_blank"&gt;Time Ticket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.city.fukuyama.hiroshima.jp/" target="_blank"&gt;広島県福山市&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.tv-asahi.co.jp/onegairanking/backnumber/1504/06/" target="_blank"&gt;2015年4月6日放送のお願い!ランキング&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%97" target="_blank"&gt;マネースクープ（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://aws.amazon.com/jp/" target="_blank"&gt;Amazon Web Services&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.heroku.com/" target="_blank"&gt;Heroku | Cloud Application Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/s/ref=nb_sb_noss?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;url=search-alias%3Dmi&amp;field-keywords=%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%83%9E%E3%82%A4%E3%82%AF&amp;rh=n%3A2123629051%2Ck%3A%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%83%9E%E3%82%A4%E3%82%AF" target="_blank"&gt;ダイナミックマイク（Amazon）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/s/ref=nb_sb_noss_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;url=search-alias%3Dmi&amp;field-keywords=%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B5%E3%83%9E%E3%82%A4%E3%82%AF" target="_blank"&gt;コンデンサマイク（Amazon）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/s/ref=sr_st_price-desc-rank?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;keywords=%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%83%94%E3%83%B3%E3%83%9E%E3%82%A4%E3%82%AF&amp;qid=1429424356&amp;rh=n%3A2123629051%2Ck%3A%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%83%94%E3%83%B3%E3%83%9E%E3%82%A4%E3%82%AF&amp;sort=price-desc-rank" target="_blank"&gt;ピンマイク（Amazon）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9/b?ie=UTF8&amp;node=2130084051" target="_blank"&gt;オーディオインターフェース（Amazon）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.skype.com/ja/" target="_blank"&gt;Skype&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rebuild.fm" target="_blank"&gt;Rebuild - Podcast by Tatsuhiko Miyagawa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://kumocast.tumblr.com/" target="_blank"&gt;くもキャスト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/RSS%E2%80%9D%20target=" _blank&gt;RSS（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.opinionpodcasting.com" target="_blank"&gt;Opinion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jekyllrb.com" target="_blank"&gt;jekyllrb.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.squarespace.com" target="_blank"&gt;Squarespace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://atp.fm" target="_blank"&gt;Accidental Tech Podcast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.tumblr.com" target="_blank"&gt;Tumblr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://github.com/" target="_blank"&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://feed.press" target="_blank"&gt;Feedpress&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href="https://itunes.apple.com/jp/podcast/bairingarunyusu-bilingual/id653415937?mt=2" target="_blank"&gt;バイリンガルニュース&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://podcast.1242.com/" target="_blank"&gt;Podcast ニッポン放送 Podcasting STATION&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.tbsradio.jp/category/junk/" target="_blank"&gt;TBS RADIO podcasting 954 | JUNK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.tbsradio.jp/tokyopod/" target="_blank"&gt;東京ポッド許可局&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wada.fm/" target="_blank"&gt;wada.fm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/116793343436</link>
+      <guid isPermaLink="false">http://transclude.fm/post/116793343436</guid>
+      <pubDate>Sun, 19 Apr 2015 14:51:12 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode5.mp3" length="25732732" type="audio/mpeg">http://transclude.fm/post/116793343436</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>株式会社レレレの山本さんと、Coffee MeetingとTime Ticketの話、ポッドキャスト（Prototype.fm）配信についての話（17:23〜）をしました。今回はじめてなんですがノーカットでの配信です。</itunes:subtitle>
+      <itunes:duration>42:53</itunes:duration>
+    </item>
+    <item>
+      <title>episode 4: 感性は育てるものではないんですよ、働かせるもので</title>
+      <description>&lt;p&gt;第29代斎王古川さん、Unitedworks北川さん、中学校美術ネットの加藤さんと、方言の話、中学校美術ネットの話（6:10〜）、感性について（10:48〜）、仕事と年齢の話（24:08〜）をしました。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img src="http://38.media.tumblr.com/02c65181268044d6adc19f1b87640fd9/tumblr_inline_nfsfl9cnRo1qde1fb.png"/&gt;  &lt;img src="http://38.media.tumblr.com/e383a69dafe061c103e6872d67f730ae/tumblr_inline_nfsfwbGNej1qde1fb.jpg"/&gt;  &lt;img src="http://40.media.tumblr.com/6870374ce4d0128544d9b48d97ca5686/tumblr_inline_nlhta4OWyk1qde1fb_500.jpg"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://blogs.yahoo.co.jp/infosaioh/folder/1829064.html" target="_blank"&gt;29代斎王ブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://unitedworks.co.jp/" target="_blank"&gt;株式会社ユナイテッドワークス&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://katokoji.info/" target="_blank"&gt;katokoji.info&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E6%96%B9%E8%A8%80" target="_blank"&gt;方言（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.pref.fukushima.lg.jp/" target="_blank"&gt;福島県&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3%E3%82%A2%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC" target="_blank"&gt;テレアポ：テレアポインター（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/user/hakatabijon" target="_blank"&gt;博多美女ん（Youtube）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://hougen-kanojo.jp" target="_blank"&gt;方言彼女。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jhsart.net/" target="_blank"&gt;中学校美術ネット&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jhsart.net/?cat=70" target="_blank"&gt;中学校美術Q&amp;A&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ws.moyashi-koubou.com/" target="_blank"&gt;Little Coder Mie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.mext.go.jp/a_menu/shotou/new-cs/youryou/index.htm" target="_blank"&gt;学習指導要領&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E7%B5%8C%E5%96%B6%E5%AD%A6%E4%BF%AE%E5%A3%AB" target="_blank"&gt;MBA：経営学修士（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E4%BF%AE%E5%A3%AB" target="_blank"&gt;Master of Fine Arts：芸術学修士（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ganbappe.j-cqn.co.jp/" target="_blank"&gt;がんばって フラガール&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/114118360951</link>
+      <guid isPermaLink="false">http://transclude.fm/post/114118360951</guid>
+      <pubDate>Fri, 20 Mar 2015 17:39:34 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode4.mp3" length="26074871" type="audio/mpeg">http://transclude.fm/post/114118360951</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>第29代斎王古川さん、Unitedworks北川さん、中学校美術ネットの加藤さんと、方言の話、中学校美術ネットの話（6:10〜）、感性について（10:48〜）、仕事と年齢の話（24:08〜）をしました。</itunes:subtitle>
+      <itunes:duration>36:13</itunes:duration>
+    </item>
+    <item>
+      <title>episode 3: 華のある人って何かしらの有限性を強く意識してるんじゃないかって</title>
+      <description>&lt;p&gt;Sharebase.InCの高木さんと、イヴの時間・ロボット倫理の話、デススタートアップについての話（26:46〜）をしました。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img alt="image" src="http://33.media.tumblr.com/45bff7b889cf72b2f2ec49bf5f77c53f/tumblr_inline_nbdky8xt8S1qde1fb.jpg"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.ascii.fm/entry/2015/05/10/012008" target="_blank"&gt;ascii.fmにて文字起こしされています&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.sharebaseinc.com" target="_blank"&gt;sharebase.InC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ascii.fm" target="_blank"&gt;ascii.fm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ikedahayato.com/index.php/archives/17097" target="_blank"&gt;若者よ、「やりがい搾取」に気をつけろ（まだ東京で消耗しているの？）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://timeofeve.com/" target="_blank"&gt;イヴの時間&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9" target="_blank"&gt;ロリコン：ロリータコンプレックス（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.orient-doll.com/" target="_blank"&gt;オリエント工業&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.kickstarter.com/projects/693293489/time-of-eve-the-movie-on-blu-ray?ref=nav_search" target="_blank"&gt;Kickstarter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://matome.naver.jp/odai/2140635573608360401" target="_blank"&gt;GoogleやFacebookが注目するディープラーニング（深層学習）についてまとめてみた（Naverまとめ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD" target="_blank"&gt;人工知能（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ymatsuo.com/japanese/" target="_blank"&gt;松尾豊&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/gp/product/B00UAAK07S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=B00UAAK07S&amp;linkCode=as2&amp;tag=geniesagjp-22" target="_blank"&gt;人工知能は人間を超えるか ディープラーニングの先にあるもの（Amason）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.google.co.jp" target="_blank"&gt;Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.t.u-tokyo.ac.jp/tpage/" target="_blank"&gt;東京大学大学院工学系研究科&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%83%E3%83%80%E3%82%A4%E3%83%88%E9%81%8B%E5%8B%95" target="_blank"&gt;ラッダイト運動（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B1%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3" target="_blank"&gt;フランケンシュタイン（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B6%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A2%E3%82%B7%E3%83%A2%E3%83%95" target="_blank"&gt;アイザック・アシモフ（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/gp/product/4150114854/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4150114854&amp;linkCode=as2&amp;tag=geniesagjp-22" target="_blank"&gt;われはロボット 〔決定版〕 アシモフのロボット傑作集（Amazon）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B7%A5%E5%AD%A6%E4%B8%89%E5%8E%9F%E5%89%87" target="_blank"&gt;ロボット三原則（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rakuen-tsuiho.com/" target="_blank"&gt;楽園追放&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%80%AB%E7%90%86%E5%AD%A6" target="_blank"&gt;ロボット倫理学（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wired.jp/2015/01/19/funeral-2/2/" target="_blank"&gt;弔い2.0：ちゃんと悼むためのスタートアップ（WIRED）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wired.jp/2014/05/17/mind-uploading/" target="_blank"&gt;
+「不老不死」のいま：マインド・アップローディング（WIRED）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%90%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%8B%E3%82%BA%E3%83%A0" target="_blank"&gt;リバタリアニズム（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E5%85%B1%E5%90%8C%E4%BD%93%E4%B8%BB%E7%BE%A9" target="_blank"&gt;コミュニタリアニズム（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E6%8A%80%E8%A1%93%E7%9A%84%E7%89%B9%E7%95%B0%E7%82%B9" target="_blank"&gt;シンギュラリティ（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/gp/product/4001156768/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4001156768&amp;linkCode=as2&amp;tag=geniesagjp-22" target="_blank"&gt;星の王子さま（Amazon）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E5%8D%83%E5%88%A9%E4%BC%91" target="_blank"&gt;千利休（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/113260198711</link>
+      <guid isPermaLink="false">http://transclude.fm/post/113260198711</guid>
+      <pubDate>Wed, 11 Mar 2015 00:58:19 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode3.mp3" length="27102854" type="audio/mpeg">http://transclude.fm/post/113260198711</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Sharebase.InCの高木さんと、イヴの時間・ロボット倫理の話、デススタートアップについての話（26:46〜）をしました。</itunes:subtitle>
+      <itunes:duration>45:10</itunes:duration>
+    </item>
+    <item>
+      <title>episode 2: でも絵的に寂しいからねぇ</title>
+      <description>&lt;p&gt;もやし工房の石黒さんと、Little Coder Mieの話、IchigoJamの話（13:24〜）、鯖江市の話（30:48〜）をしました。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img src="http://33.media.tumblr.com/049dff785326c6140f63d38d493f8d60/tumblr_inline_ne4xhqNu551qde1fb.jpg"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://ws.moyashi-koubou.com/" target="_blank"&gt;Little Coder Mie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://scratch.mit.edu/" target="_blank"&gt;Scratch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ws.moyashi-koubou.com/blog/workshop06/" target="_blank"&gt;「プログラムで音を奏でよう」&amp;「キーボードでのプログラミングに挑戦してみよう」のレポート (enchant.js &amp; Scratch)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://enchantjs.com/ja/" target="_blank"&gt;enchant.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/JavaScript" target="_blank"&gt;JavaScript（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ws.moyashi-koubou.com/blog/workshop07/" target="_blank"&gt;自分で描いた絵が動き出す！ アニメーション×プログラミング を開催した話&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.center-mie.or.jp/soubun/child/cinemasquare2014.html" target="_blank"&gt;三重そうぶんシネマスクエア2014 for Kids&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://youtu.be/eDMUls3NtIo" target="_blank"&gt;子供たちの完成作品（Youtube）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/gp/product/4769020015/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4769020015&amp;linkCode=as2&amp;tag=geniesagjp-22" target="_blank"&gt;スイミー（Amazon）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://pcn.club/sabae/" target="_blank"&gt;プログラミング・クラブ・ネットワーク&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ichigojam.net/" target="_blank"&gt;IchigoJam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/BASIC" target="_blank"&gt;BASIC（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/MSX" target="_blank"&gt;MSX（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.raspberrypi.org/" target="_blank"&gt;Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hello002.stores.jp/#!/items/54533214ef3377660a0003c7" target="_blank"&gt;早食いパックンゲーム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://fukuno.jig.jp/720" target="_blank"&gt;嫌いな人に教えてほしくない プログラミングは義務教育化できるか？ PCNキックオフ講演会
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://fukuno.jig.jp/" target="_blank"&gt;福野泰介の一日一創&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://railsgirls.com/" target="_blank"&gt;Rails Girls&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lindaliukas.fi/" target="_blank"&gt;Linda Liukas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E9%AF%96%E6%B1%9F%E5%B8%82" target="_blank"&gt;福井県鯖江市（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF" target="_blank"&gt;オープンデータ（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sabae-jk.jp/" target="_blank"&gt;鯖江市JK課&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jig.jp/" target="_blank"&gt;株式会社jig.jp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.pref.mie.lg.jp/IT/HP/opendata/" target="_blank"&gt;三重県オープンデータライブラリ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.l-community.com/" target="_blank"&gt;NPO法人エル・コミュニティ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/111661669886</link>
+      <guid isPermaLink="false">http://transclude.fm/post/111661669886</guid>
+      <pubDate>Sun, 22 Feb 2015 17:53:00 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode2.mp3" length="22296846" type="audio/mpeg">http://transclude.fm/post/111661669886</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>もやし工房の石黒さんと、Little Coder Mieの話、IchigoJamの話（13:24〜）、鯖江市の話（30:48〜）をしました。</itunes:subtitle>
+      <itunes:duration>37:10</itunes:duration>
+    </item>
+    <item>
+      <title>episode 1: や、あの気合い入ってるのはどちらも入ってて</title>
+      <description>&lt;p&gt;MATSUMO SYSTEMSの吉田さんとgaccoについて、四日市 風の谷ウィンドアンサンブルの話（13:40〜）をしました。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img src="http://33.media.tumblr.com/20fc06877870492e7acf3bc0f96804b4/tumblr_inline_nitkvq4DMt1qde1fb.png"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;p&gt;&lt;a href="http://www.ascii.fm/entry/2015/02/08/093141" target="_blank"&gt;Transcript - ascii.fm&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.matsumo-sys.com" target='“_blank"'&gt;MATSUMO SYSTEMS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://gacco.org/" target='“_blank"'&gt;gacco The Japan MOOC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/E%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0" target='“_blank"'&gt;eラーニング（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.edx.org/" target='“_blank"'&gt;edX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/Massive_open_online_course" target='“_blank"'&gt;Massive Open Online Cource（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://nttks.co.jp/" target='“_blank"'&gt;NTTナレッジ・スクエア株式会社&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.edx.org/" target='“_blank"'&gt;AWS（Amazon Web Services）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.google.com/a/genies.jp/presentation/d/1bVAWunCX7wpe2-CUTExcBM_BlgwRJlV9MiGN8keUfU0/edit#slide=id.g4212b1096_2172" target='“_blank"'&gt;Hosting for edX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.facebook.com/kazenotaniwe" target='“_blank"'&gt;四日市 風の谷ウィンドアンサンブル（Facebook）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://kazenotaniwe.blog27.fc2.com/" target='“_blank"'&gt;風の谷ウィンドアンサンブル（公式ブログ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.skype.com/ja/" target='“_blank"'&gt;Skype&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.kinsei-yokkaichi.com/" target='“_blank"'&gt;四日市市勤労者・市民交流センター&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ws.moyashi-koubou.com/blog/workshop07/" target='“_blank"'&gt;子供向けプログラミングワークショップ Little Coder Mie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.center-mie.or.jp/soubun/child/cinemasquare2014.html" target='“_blank"'&gt;三重そうぶんシネマスクエア2014 for Kids&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/109373217156</link>
+      <guid isPermaLink="false">http://transclude.fm/post/109373217156</guid>
+      <pubDate>Wed, 28 Jan 2015 15:21:00 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode1.mp3" length="19100242" type="audio/mpeg">http://transclude.fm/post/109373217156</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>MATSUMO SYSTEMSの吉田さんとgaccoについて、四日市 風の谷ウィンドアンサンブルの話（13:40〜）をしました。</itunes:subtitle>
+      <itunes:duration>31:50</itunes:duration>
+    </item>
+    <item>
+      <title>episode 0: 逃げ道用意してるんじゃないですよ</title>
+      <description>&lt;p&gt;スタンドファームの豊吉さんとMisocaの新機能について、資金調達の話（10:47〜）、社内でどん引きされたという豊吉流タスク管理（19:00〜）、Podcastについての話（23:03〜）をしました。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img src="http://33.media.tumblr.com/92d2fbc0d543af928662d1bc2b44bddb/tumblr_inline_ng70zlm0be1qde1fb.jpg"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://standfirm.jp/" target='“_blank"'&gt;スタンドファーム株式会社&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.misoca.jp/" target='“_blank"'&gt;Misoca&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.misoca.jp/misoca_payment" target='“_blank"'&gt;Misocaペイメント&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.misoca.jp/misoca_payback_guarantee" target='“_blank"'&gt;Misoca回収保証&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://incubatefund.com/" target='“_blank"'&gt;IncubateFund&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.smbc-vc.co.jp/" target='“_blank"'&gt;SMBCベンチャーキャピタル&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jp.techcrunch.com/" target='“_blank"'&gt;TechCrunch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.jafco.co.jp/" target='“_blank"'&gt;JAFCO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_%28%E3%83%90%E3%82%BA%E3%83%AF%E3%83%BC%E3%83%89%29" target='“_blank"'&gt;エコシステム（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://radiko.jp/" target='“_blank"'&gt;radiko&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.apple.com/jp/ios/carplay/" target='“_blank"'&gt;Car Play&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.moyashi-koubou.com/" target='“_blank"'&gt;もやし工房石黒さん&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://scratch.mit.edu/" target='“_blank"'&gt;Scratch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.tbsradio.jp/tokyopod/" target='“_blank"'&gt;東京ポッド許可局&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rebuild.fm/" target='“_blank"'&gt;Rebuild - Podcast by Tatsuhiko Miyagawa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://gimletmedia.com/" target='“_blank"'&gt;StartUp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.entrepreneuronfire.com/" target='“_blank"'&gt;Entrepreneur On Fire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://live.nicovideo.jp/" target='“_blank"'&gt;ニコ生（ニコニコ放送）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://twitcasting.tv/" target='“_blank"'&gt;ツイキャス&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/104580444851</link>
+      <guid isPermaLink="false">http://transclude.fm/post/104580444851</guid>
+      <pubDate>Sun, 07 Dec 2014 23:43:00 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode0.mp3" length="21999573" type="audio/mpeg">http://transclude.fm/post/104580444851</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>スタンドファームの豊吉さんとMisocaの新機能について、資金調達の話（10:47〜）、社内でどん引きされたという豊吉流タスク管理（19:00〜）、Podcastについての話（23:03〜）をしました。</itunes:subtitle>
+      <itunes:duration>36:40</itunes:duration>
+    </item>
+    <item>
+      <title>episode -1: 僕たちは友達がいない</title>
+      <description>&lt;p&gt;第29代斎王古川さん、ユナイテッドワークス北川さんと斎王祭りの話のほか、友達や起業について（10:09〜）、Podcastについての話（23:28〜）をしました。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img src="http://38.media.tumblr.com/02c65181268044d6adc19f1b87640fd9/tumblr_inline_nfsfl9cnRo1qde1fb.png"/&gt;  &lt;img src="http://38.media.tumblr.com/e383a69dafe061c103e6872d67f730ae/tumblr_inline_nfsfwbGNej1qde1fb.jpg"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://itunes.apple.com/jp/podcast/transclude/id943334492?mt=2&amp;ign-mpt=uo%3D4" target='“_blank"'&gt;Transclude Podcast（正式版）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blogs.yahoo.co.jp/infosaioh/folder/1829064.html" target="_blank"&gt;29代斎王ブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E6%96%8E%E7%8E%8B" target="_blank"&gt;斎王（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E6%96%8E%E5%AE%AE" target="_blank"&gt;斎宮（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://saioh.sub.jp/" target="_blank"&gt;斎王祭り&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E6%AD%8C%E8%88%9E%E4%BC%8E" target="_blank"&gt;スーパー歌舞伎（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://unitedworks.co.jp/" target="_blank"&gt;株式会社ユナイテッドワークス&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E5%95%93%E7%99%BA%E6%9B%B8" target="_blank"&gt;自己啓発書（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://matome.naver.jp/odai/2135610440641044401" target="_blank"&gt;YouTubeの広告収入で暮らしている日本人プロYouTuberたち&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E5%8D%98" target="_blank"&gt;十二単（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/103883857181</link>
+      <guid isPermaLink="false">http://transclude.fm/post/103883857181</guid>
+      <pubDate>Sat, 29 Nov 2014 21:10:00 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode-1.mp3" length="19702628" type="audio/mpeg">http://transclude.fm/post/103883857181</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>第29代斎王古川さん、ユナイテッドワークス北川さんと斎王祭りの話のほか、友達や起業について（10:09〜）、Podcastについての話（23:28〜）をしました。</itunes:subtitle>
+      <itunes:duration>32:50</itunes:duration>
+    </item>
+    <item>
+      <title>episode -2: バックパッカーとして旅した話、Little Coder Mie、ハッカソン in ミエ</title>
+      <description>&lt;p&gt;もやし工房の石黒さんと、バックパッカー時代の話、子ども向けプログラミングワークショップ Little Coder Mie（13:18〜）、三重県でハッカソンを開催した話（25:10〜）をしました。ノイズを除去したり音量調整したり音質に対して処理をかけてみました。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img src="http://33.media.tumblr.com/049dff785326c6140f63d38d493f8d60/tumblr_inline_ne4xhqNu551qde1fb.jpg"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.moyashi-koubou.com/" target="_blank"&gt;もやし工房&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.bikebros.co.jp/vb/magazine/outrider/" target="_blank"&gt;OutRider&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/gp/product/4101235058/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4101235058&amp;linkCode=as2&amp;tag=geniesagjp-22" target="_blank"&gt;深夜特急（沢木 耕太郎）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AA%E3%83%93%E3%82%A2" target="_blank"&gt;ボリビア - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%82%A2%E3%83%8F%E3%82%A6%E3%82%B9" target="_blank"&gt;シェアハウス - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.info.city.tsu.mie.jp/modules/dept1134/article.php?articleid=26" target="_blank"&gt;三重県津市美里町ガイドマップ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ikedahayato.com/" target="_blank"&gt;イケダハヤト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ws.moyashi-koubou.com/" target="_blank"&gt;Little Coder Mie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.gnu.org/software/bash/" target="_blank"&gt;Bash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E4%B8%B2%E6%9C%AC%E7%94%BA" target="_blank"&gt;和歌山県串本町 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://b.hatena.ne.jp/" target="_blank"&gt;はてブ（はてなブックマーク）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://pegpeg.jp/tool" target="_blank"&gt;PEG programming education gathering - プログラミング学習実践者の方向けのツール&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://coderdojo.jp/" target="_blank"&gt;CoderDojo Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://scratch.mit.edu/" target="_blank"&gt;Scratch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://php.net/" target="_blank"&gt;PHP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://developer.android.com/index.html" target="_blank"&gt;Android Developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/gp/product/4121504895/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4121504895&amp;linkCode=as2&amp;tag=geniesagjp-22" target="_blank"&gt;教養としてのプログラミング講座&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://transcludefm.doorkeeper.jp/events/14748" target="_blank"&gt;これからの地方の話をしよう〜地域活性のあきらめかた、はじめかた&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.moyashi-koubou.com/hackathon_mie_2014/" target="_blank"&gt;ハッカソン in ミエ 2014&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.moyashi-koubou.com/blog/hackathon_mie/" target="_blank"&gt;地方でハッカソンを開催してみた話&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E9%88%B4%E9%B9%BF%E5%B8%82" target="_blank"&gt;三重県鈴鹿市 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://aoyama.igaueno.net/kankou/spot/kougen/" target="_blank"&gt;青山高原&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.okageyokocho.co.jp/" target="_blank"&gt;おかげ横町&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/101148654291</link>
+      <guid isPermaLink="false">http://transclude.fm/post/101148654291</guid>
+      <pubDate>Tue, 28 Oct 2014 13:15:00 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode-2.mp3" length="19202904" type="audio/mpeg">http://transclude.fm/post/101148654291</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>もやし工房の石黒さんと、バックパッカー時代の話、子ども向けプログラミングワークショップ Little Coder Mie（13:18〜）、三重県でハッカソンを開催した話（25:10〜）をしました。ノイズを除去したり音量調整したり音質に対して処理をかけてみました。</itunes:subtitle>
+      <itunes:duration>32:00</itunes:duration>
+    </item>
+    <item>
+      <title>episode -3: Sharebase.InC2周年、AirBnB、SmartGrw</title>
+      <description>&lt;p&gt;Sharebase.InCのヤスさん、ゆかさんとSharebase２周年の様子、AirBnB続報（9:24〜）のほか、シンガポールのスタートアップとSmartGrw（スマートグロウ）という鑑賞型の水耕栽培システムを使った取り組みについての話（18:45〜）をしました。録音機材を改善したので音質がよくなってると思います。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img alt="image" src="http://33.media.tumblr.com/45bff7b889cf72b2f2ec49bf5f77c53f/tumblr_inline_nbdky8xt8S1qde1fb.jpg"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.sharebaseinc.com" target="_blank"&gt;sharebase.InC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.facebook.com/events/923479767669011" target="_blank"&gt;sharebase.InC2周年Starlight Sharebase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%86%E3%82%A3%E3%83%B3%E3%83%90%E3%83%BC%E3%83%AC%E3%82%A4%E3%82%AF" target="_blank"&gt;ジャステン・ティンバーレイク&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A_STAND_ALONE_COMPLEX" target="_blank"&gt;スタンドアローンコンプレックス&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.airbnb.jp/rooms/3830548?s=ZXCK" target="_blank"&gt;Airbnb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B1%E3%83%89%E3%83%8B%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD" target="_blank"&gt;マケドニア共和国&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.smartgrow.co/" target="_blank"&gt;SmartGrw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.gfm.co.jp/" target="_blank"&gt;株式会社M式水耕栽培研究所&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.marinabaysands.com/index.html" target="_blank"&gt;Marina Bay Sands&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/99622580566</link>
+      <guid isPermaLink="false">http://transclude.fm/post/99622580566</guid>
+      <pubDate>Fri, 10 Oct 2014 13:17:00 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode-3.mp3" length="16195423" type="audio/mpeg">http://transclude.fm/post/99622580566</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Sharebase.InCのヤスさん、ゆかさんとSharebase２周年の様子、AirBnB続報（9:24〜）のほか、シンガポールのスタートアップとSmartGrw（スマートグロウ）という鑑賞型の水耕栽培システムを使った取り組みについての話（18:45〜）をしました。録音機材を改善したので音質がよくなってると思います。</itunes:subtitle>
+      <itunes:duration>26:59</itunes:duration>
+    </item>
+    <item>
+      <title>episode -4: 名古屋Geek Barの話ほか</title>
+      <description>&lt;p&gt;スタンドファームの松本さんと名古屋のイベント・勉強会事情、Cooking For Geeks、ハッカソン、Geek Barの話をしました。前回よりも聞きやすく、前回よりもこじんまりとしています。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img alt="image" src="http://38.media.tumblr.com/cbc064c9391d0145725def54bc39ec2c/tumblr_inline_nbwbkeLaiS1qde1fb.png"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://standfirm.jp/" target="_blank"&gt;スタンドファーム株式会社&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.misoca.jp/" target="_blank"&gt;Misoca&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.jp/gp/product/4873115094/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4873115094&amp;linkCode=as2&amp;tag=geniesagjp-22" target="_blank"&gt;Cooking For Geeks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.google.com/calendar/embed?src=6ef63uicdv7l17h035m1grg7fs@group.calendar.google.com" target="_blank"&gt;DS東海カレンダー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.engcafe.tv/news/201405125451/" target="_blank"&gt;COSPLAYTHON（コスプレソン）2014&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mashupawards.tumblr.com/post/95685741976/mashup-hackathon-in" target="_blank"&gt;Mashup Awards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.facebook.com/nagoyageekbar"&gt;名古屋Geek Bar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/97710595791</link>
+      <guid isPermaLink="false">http://transclude.fm/post/97710595791</guid>
+      <pubDate>Thu, 18 Sep 2014 13:56:00 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode-4.mp3" length="38274947" type="audio/mpeg">http://transclude.fm/post/97710595791</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>スタンドファームの松本さんと名古屋のイベント・勉強会事情、Cooking For Geeks、ハッカソン、Geek Barの話をしました。前回よりも聞きやすく、前回よりもこじんまりとしています。</itunes:subtitle>
+      <itunes:duration>26:35</itunes:duration>
+    </item>
+    <item>
+      <title>episode -5: とりあえず収録、とりあえず配信</title>
+      <description>&lt;p&gt;sharebase.InCのヤスさんとイベント運営、Airbnb、STARLIGHT RUN、シェアというコンセプトなんかの話をしました。Podcastを配信していく環境をつくるためにまずは試しに録音してみたのですが、いろいろとスタートアップ感のある仕上がりになってます…。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img alt="image" src="http://33.media.tumblr.com/45bff7b889cf72b2f2ec49bf5f77c53f/tumblr_inline_nbdky8xt8S1qde1fb.jpg"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.sharebaseinc.com/" target="_blank"&gt;sharebase.InC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.airbnb.jp/" target="_blank"&gt;Airbnb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.tedx-nayabashi.com/" target="_blank"&gt;TEDxNayabashi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;STARLIGHT RUN 2014&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/96519619881</link>
+      <guid isPermaLink="false">http://transclude.fm/post/96519619881</guid>
+      <pubDate>Wed, 03 Sep 2014 14:47:00 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode-5.mp3" length="56177811" type="audio/mpeg">http://transclude.fm/post/96519619881</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>sharebase.InCのヤスさんとイベント運営、Airbnb、STARLIGHT RUN、シェアというコンセプトなんかの話をしました。Podcastを配信していく環境をつくるためにまずは試しに録音してみたのですが、いろいろとスタートアップ感のある仕上がりになってます…。</itunes:subtitle>
+      <itunes:duration>39:01</itunes:duration>
+    </item>
+  </channel>
+</rss>
