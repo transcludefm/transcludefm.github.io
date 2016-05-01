@@ -19,6 +19,62 @@
     <itunes:subtitle>A Podcast by Kazuyuki Saka.</itunes:subtitle>
     <itunes:summary>愛知・岐阜・三重のIT, Tech系の話題を中心に人やコミュニティ、イベント、そしてファンタジーなことまで自由気ままに話しているPodcastです。&#13;会話中に出てくるキーワードは、http://transclude.fm のShow Notesにリンクがあります。ハッシュタグは#transcludefmです。</itunes:summary>
     <item>
+      <title>episode 20: 阪「そこに心はないっていう」青島「だからナンパテクニック集はそれ」高木「言ったらキャバクラ嬢だってそこに心はないですよ」</title>
+      <description>&lt;p&gt;SharebaseInC.の高木さんとLINE Designの青島さんとCotoGoto、bot、ディープラーニングなどAI分野のトレンドの話の話、botとのコミュニケーションの話（12:25〜）、botのビジネスモデルの話の話（29:11〜）をしました。｜ エンディング曲「三重県民に殴られた」&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img src="http://67.media.tumblr.com/45bff7b889cf72b2f2ec49bf5f77c53f/tumblr_inline_nbdky8xt8S1qde1fb.jpg"/&gt;  &lt;img src="http://67.media.tumblr.com/c288e21ce7beb63b053dad154db01732/tumblr_inline_o6hy62ZxQh1qde1fb_500.jpg"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
+
+
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.sharebaseinc.com/" target="_blank"&gt;Sharebase.InC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linedesign.jp/" target="_blank"&gt;LINE Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://dic.nicovideo.jp/a/bot" target="_blank"&gt;Bot（ニコニコ大百科）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.cotogoto.ai/" target="_blank"&gt;コトゴト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/cotogoto_ai" target="_blank"&gt;ノビィ（Twitter）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://t.umblr.com/redirect?z=http%3A%2F%2Ftimeofeve.com%2F&amp;t=YTE4Y2Y5ZGI5YTBkNjJjNzA0NzY0ZDhlMjlhNDNkNTk2NTcwZGJjMCxIOTAzZ1RtcQ%3D%3D" target="_blank"&gt;イヴの時間&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fproduct%2FB00UAAK07S%2Fref%3Das_li_qf_sp_asin_il_tl%3Fie%3DUTF8%26camp%3D247%26creative%3D1211%26creativeASIN%3DB00UAAK07S%26linkCode%3Das2%26tag%3Dgeniesagjp-22&amp;t=YTdmOWFmOTczN2E5M2U4MjZhNTMyNGQzNGI2Y2JiOGM2MzlkOTQwNCxIOTAzZ1RtcQ%3D%3D" target="_blank"&gt;人工知能は人間を超えるか ディープラーニングの先にあるもの（Amazon）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%84%A1%E8%84%B3" target="_blank"&gt;人工無脳（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/ELIZA" target="_blank"&gt;ELIZA（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://thinkit.co.jp/story/2015/08/31/6364" target="_blank"&gt;そもそもディープラーニングとは何か？（Think IT）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://qiita.com/summer4an/items/db0124eee8103c1d3b85" target="_blank"&gt;ディープラーニングで顔写真から巨乳かどうかを判別してみる (うまくいったか微妙)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cyberagent.co.jp/techinfo/techreport/report/id=9875" target="_blank"&gt;ツイートから好みのタイプの女の子を見つけるセンチメント分析とDeep Learning（Cyber Agent）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/ms_rinna?lang=ja" target="_blank"&gt;りんな（Twitter）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wired.jp/2016/03/30/microsofts-teen-ai-turned-into-such-a-jerk/" target="_blank"&gt;AI「Tay」を“最低なヤツ”にしたのは誰だ？（WIRED）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ibm.com/smarterplanet/jp/ja/ibmwatson/" target="_blank"&gt;IBM Watson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.post.japanpost.jp/about/posukuma_sns.html" target="_blank"&gt;ぽすくまと仲間達 ソーシャルメディア&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developers.line.me/bot-api/overview" target="_blank"&gt;Bot API（LINE Developers）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.tensorflow.org/" target="_blank"&gt;TensorFlow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92" target="_blank"&gt;機械学習（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://matome.naver.jp/odai/2139419120854913001" target="_blank"&gt;結局、微分・積分って何なの？その初歩の初歩（Naverまとめ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://kagennotuki.sakura.ne.jp/la/" target="_blank"&gt;サルでもよくわかる線形代数学（よいこの低学年向け数学ひろば）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E7%A2%BA%E7%8E%87%E3%83%BB%E7%B5%B1%E8%A8%88" target="_blank"&gt;確率・統計（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3" target="_blank"&gt;ハッカソン（Wikipedia）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jooy.jp/25701" target="_blank"&gt;【確率UP】どんな女性もオトす為のマル秘相づちテクニック１０選｜JOOY （ジョーイ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://greenfunding.jp/lab/projects/1302-ai-ai-ai" target="_blank"&gt;篠崎愛をAI化して、世界初のAIドルを作りたい！ 「篠崎AIプロジェクト」サポートメンバー募集！（GREEN FUNDING by T-SITE）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://qiita.com" target="_blank"&gt;Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fitbit.com/jp" target="_blank"&gt;Fitbit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://simonsaxon.com/music/loop-machine/" target="_blank"&gt;ループ・マシンを使った超クールなライブ映像まとめ。（simonsaxon.com）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://diamond.jp/articles/-/86125" target="_blank"&gt;「水素水は体に良い」は本当か？効果の真偽を徹底検証（ダイヤモンド・オンライン）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://togetter.com/li/963734" target="_blank"&gt;水素水を完全に凌駕した!?水が天然の量子の力を持った「量子水」が安い！「飲むと健康状態が確定するのかな？」「観測可能なのか？」とシュレディンガーの猫状態の人たち（Toggaterまとめ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://togetter.com/li/964586" target="_blank"&gt;ツッコミが追いつかない　“重力波栽培”「グラビトン野菜」とは!? （Togetterまとめ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://withnews.jp/article/f0160421002qq000000000000000W01110101qq000013301A" target="_blank"&gt;もしラブドールが「妊娠」したら…芸大院生が本当に伝えたかったこと（withnews）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;エンディング曲『三重県民に殴られた』&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.nicovideo.jp/watch/sm27790690" target="_blank"&gt;三重県民に殴られた（ニコニコ動画）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/zyojoe" target="_blank"&gt;作曲&amp;編曲:ジョー｜@zyojoe &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/liz4kcl" target="_blank"&gt;作詞:Liz.｜@liz4kcl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/ka_r1_ya" target="_blank"&gt;ミックス:仮屋｜@ka_r1_ya&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/Gent_Szk" target="_blank"&gt;ギター:GENT｜@Gent_Szk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/s_ld317" target="_blank"&gt;イラスト:サラダ｜@s_ld317&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/sora_fi" target="_blank"&gt;動画:ソラフィ｜@sora_fi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>http://transclude.fm/post/143679047211</link>
+      <guid isPermaLink="false">http://transclude.fm/post/143679047211</guid>
+      <pubDate>Sun, 01 May 2016 20:55:56 +0900</pubDate>
+      <enclosure url="http://cache.transclude.fm/episode20.mp3" length="29502725" type="audio/mpeg">http://transclude.fm/post/143679047211</enclosure>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>SharebaseInC.の高木さんとLINE Designの青島さんとCotoGoto、bot、ディープラーニングなどAI分野のトレンドの話の話、botとのコミュニケーションの話（12:25〜）、botのビジネスモデルの話の話（29:11〜）をしました。｜ エンディング曲「三重県民に殴られた」</itunes:subtitle>
+      <itunes:duration>49:13</itunes:duration>
+    </item>
+    <item>
       <title>episode 19: とかくこう自国の日本と比較したがるのでなぜか日本人ってーここまで来てなにも比較しなくてもいいじゃないっていう</title>
       <description>&lt;p&gt;株式会社ライオンハートの市川厚さんと起業からフィリピンを目指すまでの話、フィリピンでの会社立ち上げの話（22:26〜）、マニラ市についての話（30:01〜）の話をしました。｜ エンディング曲「三重県民に殴られた」&lt;/p&gt;
 &lt;p&gt;&lt;img alt="image" src="http://33.media.tumblr.com/f2bc5f4f15719c93104f1a79a069f339/tumblr_inline_nblb1tPItM1qde1fb.jpg"/&gt;  &lt;img src="http://40.media.tumblr.com/01484b897f352ba13b4701f904891e0a/tumblr_inline_o5plitGIps1qde1fb_500.jpg"/&gt;&lt;/p&gt;&lt;!-- more --&gt;
